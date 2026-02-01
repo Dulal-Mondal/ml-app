@@ -1,0 +1,5 @@
+Age,Sex,Bmi,Children,Smoker,Smoker,output,timestamp
+10,male,20,1,no,northwest,0,2026-02-01 23:30:00.169306
+10,male,20,1,no,northwest,0,2026-02-01 23:30:03.379974
+10,male,20,1,no,northwest,0,2026-02-01 23:30:04.897529
+10,male,20,1,no,northeast,0,2026-02-01 23:30:48.481531
