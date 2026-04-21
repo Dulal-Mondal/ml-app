@@ -1,3 +1,4 @@
 Age,Sex,BMI,Children,Smoker,Region,output,timestamp
 30,male,25,1,no,northwest,4236.078938688112,2026-02-01 23:35:21.155202
 30,male,25,1,no,northwest,4236.078938688112,2026-02-01 23:35:23.941153
+55,male,25,1,no,southeast,10530.83478110462,2026-02-06 17:44:01.638523
